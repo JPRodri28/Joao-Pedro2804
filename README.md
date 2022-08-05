@@ -1,6 +1,6 @@
 #### Hi how are you? 
 ### My name is João Pedro Rodrigues
-#### I'm currently studying front-end (HTML, CSS, JavaScript and React
+#### I'm starting studies in Swift language
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Pedro2804&theme=dark&show_icons=true)</a>
 <h2>Linguagens</h2>
 <div>
@@ -17,7 +17,5 @@
     <a href="https://www.linkedin.com/in/<joao-pedro-rodri>" alt="linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"> 
   <a href="https://wa.me/<54984369987>" alt="WhatsApp" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link"/></a>
   <a href= "https://www.instagram.com/USERNAME/" ><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-      </div>
-      ![Snake animation](https://github.com/Joao-Pedro2804/Joao-Pedro2804/blob/output/github-contribution-grid-snake.svg)</a>
-        
+      </div>        
 
