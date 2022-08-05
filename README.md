@@ -7,6 +7,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JP-JavaScript"align="center" heigth="40" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="JP-HTML" align="center" heigth="40" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="JP-CSS" align="center" heigth="40" width="40">
+  <img src="https://img.icons8.com/color/344/swift.png" alt="JP-SWIFT" align="center" heigth="40" width="40">
   <img align="center" alt="JP-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 </div>
